@@ -17,7 +17,7 @@ $(document).ready(function(){
 		{
 			if(name == "feiyiyun" && pwd == "saohuo"){
 				alert("welcome, fei！");
-				window.open("homepage.html","_blank"); 
+				window.open("homepage1.html","_blank"); 
 			}
 			else{
 				alert("wrong username or password！");
